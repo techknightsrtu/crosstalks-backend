@@ -1,0 +1,12 @@
+plugins {
+	id 'org.springframework.boot' version '2.1.5.RELEASE'
+}
+
+group = 'com.develup.crosstalks'
+version = '1.0-SNAPSHOT'
+
+sourceCompatibility = '1.8'
+
+dependencies {
+
+}
